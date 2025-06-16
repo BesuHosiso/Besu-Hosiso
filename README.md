@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <h1 align="center">Hi, I'm Besu 👋</h1>
+<h1 align="center">Hi, I'm Besu 👋</h1>
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
 
 <!-- 👇 Typing effect with softer blue and better font -->
