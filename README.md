@@ -4,7 +4,7 @@
 
 ## 🔥 Full Stack Developer | Tech Content Creator | Future Builder
 
-I'm a passionate full stack developer from [Your Location 🌍] building modern, scalable web apps and sharing knowledge to uplift devs everywhere. From HTML to React, Node.js to SQL, I love building things that solve real problems—and helping others do the same.
+I'm a passionate full stack developer from Ethiopia building modern, scalable web apps and sharing knowledge to uplift devs everywhere. From HTML to React, Node.js to SQL, I love building things that solve real problems—and helping others do the same.
 
 ---
 
