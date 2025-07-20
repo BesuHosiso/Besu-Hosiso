@@ -27,7 +27,7 @@ I'm a passionate full stack developer from Ethiopia building modern, scalable we
 
 ### 📢 Let’s Connect
 
-- 🌐 Website: besu.great-site.net
+- 🌐 Website: https://besuthecoder.static.domains/
 - 📬 Email: besuyeboss@gmail.com
 ---
 
